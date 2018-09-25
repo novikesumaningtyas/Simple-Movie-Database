@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Validation()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Validation\r\n
+comment1.params=word
+comment1.target=boolean\ checkNoBlank(java.lang.String)
+comment1.text=\r\n\ checkNoBlank(String\ word)\r\n\ Validate\ input,\ check\ if\ string\ input\ have\ at\ least\ one\ character.\r\n\ \r\n\ @param\ String\ word\ -\ word\ from\ user\ to\ be\ checked\ by\ the\ validation\r\n\ \r\n\ @return\ true\ if\ word\ have\ at\ least\ one\ character\r\n\ @return\ false\ if\ word\ have\ any\ character\ /\ just\ blank\ space\r\n
+comment2.params=input
+comment2.target=boolean\ integerMenuValidation(java.lang.String)
+comment2.text=\r\n\ integerMenuValidation(String\ check)\r\n\ Validate\ input\ to\ make\ sure\ the\ input\ is\ an\ integer\r\n\ This\ validation\ is\ for\ main\ menu\ validation\r\n\ \r\n\ @param\ String\ input\ -\ input\ from\ user,\ it\ should\ be\ an\ integer\r\n\ if\ it\ is\ not,\ validation\ will\ show\ some\ error\r\n\ \r\n\ @return\ true\ if\ the\ input\ is\ an\ integer\r\n\ @return\ false\ if\ the\ input\ is\ not\ an\ integer\r\n
+comment3.params=input\ min\ max
+comment3.target=boolean\ integerValidation(java.lang.String,\ int,\ int)
+comment3.text=\r\n\ integerValidation(String\ input,\ int\ min,\ int\ max)\r\n\ Validate\ input\ to\ make\ sure\ the\ input\ is\ an\ integer\r\n\ Also\ show\ the\ range\ for\ the\ integer\ should\ be\ given\r\n\ \r\n\ @param\ String\ input\ -\ input\ from\ user,\ it\ should\ be\ an\ integer\r\n\ @param\ int\ min\ -\ minimum\ integer\ should\ be\ input\ by\ user\r\n\ @param\ int\ max\ -\ maximum\ integer\ should\ be\ input\ by\ user\r\n\ \r\n\ @return\ true\ -\ if\ input\ given\ is\ an\ integer\ and\ in\ the\ range\r\n\ @return\ false\ -\ if\ input\ given\ is\ an\ integer\ out\ of\ range\r\n\ @return\ false\ -\ if\ input\ is\ not\ an\ integer\r\n
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FileOperation()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ FileOperation\r\n
+comment1.params=filename
+comment1.target=java.lang.String\ readText(java.lang.String)
+comment1.text=\r\n\ readText(String\ filename)\r\n\ Read\ movies\ details\ from\ the\ text\ given\r\n\ and\ keep\ it\ in\ string\r\n\ \r\n\ @param\ filename\ -\ file\ name\ which\ this\ method\ should\ read\r\n\ \r\n\ @return\ String\ -\ contain\ all\ words\ from\ the\ file\r\n
+comment2.params=filename\ moviesDetails\ lastLine
+comment2.target=void\ writeToText(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ writeToText(String\ filename,\ String\ moviesDetails,\ String\ lastLine)\r\n\ Write\ movies\ details\ back\ to\ the\ text\ file\r\n\ \r\n\ @param\ String\ filename\ -\ where\ the\ files\ should\ be\ written\r\n\ @param\ String\ moviesDetails\ -\ content\ should\ be\ written\ to\ the\ file\r\n\ @param\ String\ lastLine\ -\ the\ last\ line\ from\ movies\ detail\ should\ be\ written\ to\ the\ file\r\n
+numComments=3
