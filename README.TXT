@@ -1,8 +1,10 @@
 ------------------------------------------------------------------------
                                 READ ME DOCUMENT
 ------------------------------------------------------------------------
+Language                    : Java
+IDE                         : BlueJ
 
-PROJECT TITLE               : 27897176_A2
+PROJECT TITLE               : Simple Movie Database
 PURPOSE OF PROJECT          : To fulfil assignment 2 in Programming foundations in Java course FIT9131
 VERSION or DATE             : 26 May 2017
 HOW TO START THIS PROJECT   : 
