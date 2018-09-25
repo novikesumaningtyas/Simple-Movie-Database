@@ -5,7 +5,7 @@ Language                    : Java
 IDE                         : BlueJ
 
 PROJECT TITLE               : Simple Movie Database
-PURPOSE OF PROJECT          : To fulfil assignment 2 in Programming foundations in Java course FIT9131
+PURPOSE OF PROJECT          : To fulfil assignment 2 in Programming foundations in Java course 
 VERSION or DATE             : 26 May 2017
 HOW TO START THIS PROJECT   : 
                               1. Create new object from MoviesDatabases Class
